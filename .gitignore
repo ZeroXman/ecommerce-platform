@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Entorno
+.env
+.env.local
+.env.*.local
+
+# Registros y temporales
+*.log
+npm-debug.log*
+tmp/
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+.vscode/
+
+# Cobertura
+coverage/
